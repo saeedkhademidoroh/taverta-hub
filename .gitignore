@@ -1,0 +1,5 @@
+# Ignore the node_modules directory (installed packages)
+node_modules/
+
+# Ignore the package-lock.json file (auto-generated dependency lock file)
+package-lock.json

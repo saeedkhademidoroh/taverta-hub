@@ -1,0 +1,26 @@
+{
+  "name": "taverta-hub",
+  "version": "1.0.0",
+  "description": "**Taverta Hub** is a monorepo containing modular components of the Taverta ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeedkhademidoroh/taverta-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saeedkhademidoroh/taverta-hub/issues"
+  },
+  "homepage": "https://github.com/saeedkhademidoroh/taverta-hub#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "husky": "^8.0.0"
+  }
+}
