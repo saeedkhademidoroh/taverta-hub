@@ -11,4 +11,4 @@ def ask_openai(prompt: str) -> str:
     return response.choices[0].message["content"].strip()
 
 # Print confirmation message
-print("\n✅ chatbot.py successfully executed")
+print("\n✅ prompt.py successfully executed")
