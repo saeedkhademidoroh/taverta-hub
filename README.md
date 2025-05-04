@@ -1,6 +1,9 @@
+
+---
+
 # Taverta Hub
 
-**Taverta Hub** is a monorepo containing modular components of the Taverta ecosystem.
+**Taverta Hub** contains modular components of the Taverta ecosystem.
 
 ---
 
@@ -15,7 +18,7 @@ A backend-only chatbot powered by Flask and OpenAI. Includes optional RAG module
 
 ## 🛠️ Development
 
-Clone the repo and explore individual components. Each module is self-contained and documented.
+Clone the repository and explore individual components. Each module is self-contained and documented.
 
 ```bash
 git clone https://github.com/saeedkhademidoroh/taverta-hub.git
